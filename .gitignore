@@ -1,0 +1,15 @@
+# Data files (not tracked)
+*.csv
+*.xlsx
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
